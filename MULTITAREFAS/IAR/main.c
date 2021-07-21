@@ -85,6 +85,6 @@ void tarefa_3(void)
 	for(;;)
 	{
 		c++;
-		TarefaSuspende(2);	
+		TarefaSuspende(3);	
 	}
 }
