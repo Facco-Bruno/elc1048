@@ -3372,7 +3372,7 @@
     "location": {
       "column": "9",
       "line": "9",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "CPU_PORT_H_",
     "origin": "user_include",
@@ -3386,7 +3386,7 @@
     "location": {
       "column": "9",
       "line": "15",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "TAM_MINIMO_PILHA",
     "origin": "user_include",
@@ -3400,7 +3400,7 @@
     "location": {
       "column": "19",
       "line": "18",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "stackptr_t",
     "origin": "user_include",
@@ -3414,7 +3414,7 @@
     "location": {
       "column": "9",
       "line": "19",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "SP_TYPECAST",
     "origin": "user_include",
@@ -3428,7 +3428,7 @@
     "location": {
       "column": "9",
       "line": "23",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "NVIC_INT_CTRL_B",
     "origin": "user_include",
@@ -3442,7 +3442,7 @@
     "location": {
       "column": "9",
       "line": "24",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "NVIC_SYSPRI3",
     "origin": "user_include",
@@ -3456,7 +3456,7 @@
     "location": {
       "column": "9",
       "line": "25",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "NVIC_SYSTICK_CTRL",
     "origin": "user_include",
@@ -3470,7 +3470,7 @@
     "location": {
       "column": "9",
       "line": "26",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "NVIC_SYSTICK_LOAD",
     "origin": "user_include",
@@ -3484,7 +3484,7 @@
     "location": {
       "column": "9",
       "line": "28",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "NVIC_PENDSVSET",
     "origin": "user_include",
@@ -3498,7 +3498,7 @@
     "location": {
       "column": "9",
       "line": "29",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "NVIC_PENDSVCLR",
     "origin": "user_include",
@@ -3512,7 +3512,7 @@
     "location": {
       "column": "9",
       "line": "30",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "NVIC_SYSTICK_CLK",
     "origin": "user_include",
@@ -3526,7 +3526,7 @@
     "location": {
       "column": "9",
       "line": "31",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "NVIC_SYSTICK_INT",
     "origin": "user_include",
@@ -3540,7 +3540,7 @@
     "location": {
       "column": "9",
       "line": "32",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "NVIC_SYSTICK_ENABLE",
     "origin": "user_include",
@@ -3554,7 +3554,7 @@
     "location": {
       "column": "9",
       "line": "33",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "PRIO_BITS",
     "origin": "user_include",
@@ -3568,7 +3568,7 @@
     "location": {
       "column": "9",
       "line": "34",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "LOWEST_INTERRUPT_PRIORITY",
     "origin": "user_include",
@@ -3582,7 +3582,7 @@
     "location": {
       "column": "9",
       "line": "35",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "KERNEL_INTERRUPT_PRIORITY",
     "origin": "user_include",
@@ -3596,7 +3596,7 @@
     "location": {
       "column": "9",
       "line": "36",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "NVIC_PENDSV_PRI",
     "origin": "user_include",
@@ -3610,7 +3610,7 @@
     "location": {
       "column": "9",
       "line": "37",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "NVIC_SYSTICK_PRI",
     "origin": "user_include",
@@ -3624,7 +3624,7 @@
     "location": {
       "column": "9",
       "line": "41",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "REG_ATOMICA_INICIO",
     "origin": "user_include",
@@ -3638,7 +3638,7 @@
     "location": {
       "column": "9",
       "line": "42",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "REG_ATOMICA_FIM",
     "origin": "user_include",
@@ -3652,7 +3652,7 @@
     "location": {
       "column": "9",
       "line": "44",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "TROCA_CONTEXTO",
     "origin": "user_include",
@@ -3666,7 +3666,7 @@
     "location": {
       "column": "9",
       "line": "45",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "TrocaContexto",
     "origin": "user_include",
@@ -3680,7 +3680,7 @@
     "location": {
       "column": "9",
       "line": "46",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "Clear_PendSV",
     "origin": "user_include",
@@ -3694,7 +3694,7 @@
     "location": {
       "column": "9",
       "line": "48",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "GERA_INTERRUPCAO_SW",
     "origin": "user_include",
@@ -3708,7 +3708,7 @@
     "location": {
       "column": "9",
       "line": "54",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "RESTAURA_SP",
     "origin": "user_include",
@@ -3722,7 +3722,7 @@
     "location": {
       "column": "9",
       "line": "57",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "SALVA_SP",
     "origin": "user_include",
@@ -3736,7 +3736,7 @@
     "location": {
       "column": "9",
       "line": "60",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "SALVA_CONTEXTO",
     "origin": "user_include",
@@ -3750,7 +3750,7 @@
     "location": {
       "column": "9",
       "line": "73",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "RESTAURA_CONTEXTO",
     "origin": "user_include",
@@ -3764,7 +3764,7 @@
     "location": {
       "column": "9",
       "line": "90",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "SALVA_ISR",
     "origin": "user_include",
@@ -3778,7 +3778,7 @@
     "location": {
       "column": "9",
       "line": "92",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.h"
     },
     "name": "RESTAURA_ISR",
     "origin": "user_include",
@@ -3806,7 +3806,7 @@
     "location": {
       "column": "20",
       "line": "10",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.c"
     },
     "name": "SP",
     "origin": "project_file",
@@ -3820,7 +3820,7 @@
     "location": {
       "column": "12",
       "line": "12",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.c"
     },
     "name": "CriaContexto",
     "origin": "project_file",
@@ -3834,7 +3834,7 @@
     "location": {
       "column": "10",
       "line": "14",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.c"
     },
     "name": "INITIAL_XPSR",
     "origin": "project_file",
@@ -3848,7 +3848,7 @@
     "location": {
       "column": "11",
       "line": "16",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.c"
     },
     "name": "reg_val",
     "origin": "project_file",
@@ -3862,7 +3862,7 @@
     "location": {
       "column": "6",
       "line": "47",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.c"
     },
     "name": "ConfiguraMarcaTempo",
     "origin": "project_file",
@@ -3876,7 +3876,7 @@
     "location": {
       "column": "26",
       "line": "50",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.c"
     },
     "name": "cpu_clock_hz",
     "origin": "project_file",
@@ -3890,7 +3890,7 @@
     "location": {
       "column": "12",
       "line": "51",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.c"
     },
     "name": "valor_comparador",
     "origin": "project_file",
@@ -3904,7 +3904,7 @@
     "location": {
       "column": "36",
       "line": "59",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.c"
     },
     "name": "SVC_Handler",
     "origin": "project_file",
@@ -3918,7 +3918,7 @@
     "location": {
       "column": "36",
       "line": "69",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.c"
     },
     "name": "PendSV_Handler",
     "origin": "project_file",
@@ -3932,7 +3932,7 @@
     "location": {
       "column": "12",
       "line": "89",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.c"
     },
     "name": "SysTick_Handler",
     "origin": "project_file",
@@ -3946,7 +3946,7 @@
     "location": {
       "column": "12",
       "line": "96",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\cpu-port.c"
     },
     "name": "HardFault_Handler",
     "origin": "project_file",
@@ -3974,7 +3974,7 @@
     "location": {
       "column": "9",
       "line": "8",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "MULTITAREFAS_H_",
     "origin": "user_include",
@@ -3988,7 +3988,7 @@
     "location": {
       "column": "9",
       "line": "17",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "NUMERO_DE_TAREFAS",
     "origin": "user_include",
@@ -4002,7 +4002,7 @@
     "location": {
       "column": "9",
       "line": "20",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "PRIORIDADE_MAXIMA",
     "origin": "user_include",
@@ -4016,7 +4016,7 @@
     "location": {
       "column": "9",
       "line": "23",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "cfg_CPU_CLOCK_HZ",
     "origin": "user_include",
@@ -4030,7 +4030,7 @@
     "location": {
       "column": "9",
       "line": "26",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "cfg_MARCA_TEMPO_HZ",
     "origin": "user_include",
@@ -4044,7 +4044,7 @@
     "location": {
       "column": "17",
       "line": "28",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "tarefa_t",
     "origin": "user_include",
@@ -4064,7 +4064,7 @@
         "location": {
           "column": "15",
           "line": "29",
-          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
         },
         "name": "PRONTA",
         "origin": "user_include",
@@ -4078,7 +4078,7 @@
         "location": {
           "column": "23",
           "line": "29",
-          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
         },
         "name": "ESPERA",
         "origin": "user_include",
@@ -4088,7 +4088,7 @@
     "location": {
       "column": "9",
       "line": "29",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "",
     "origin": "user_include",
@@ -4102,7 +4102,7 @@
     "location": {
       "column": "31",
       "line": "29",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "estado_tarefa_t",
     "origin": "user_include",
@@ -4116,7 +4116,7 @@
     "location": {
       "column": "19",
       "line": "30",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "prioridade_t",
     "origin": "user_include",
@@ -4130,7 +4130,7 @@
     "location": {
       "column": "19",
       "line": "31",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "tick_t",
     "origin": "user_include",
@@ -4144,7 +4144,7 @@
     "location": {
       "column": "9",
       "line": "38",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "members": [
       {
@@ -4155,7 +4155,7 @@
         "location": {
           "column": "15",
           "line": "40",
-          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
         },
         "name": "nome",
         "origin": "user_include",
@@ -4169,7 +4169,7 @@
         "location": {
           "column": "14",
           "line": "41",
-          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
         },
         "name": "stack_pointer",
         "origin": "user_include",
@@ -4183,7 +4183,7 @@
         "location": {
           "column": "18",
           "line": "42",
-          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
         },
         "name": "estado",
         "origin": "user_include",
@@ -4197,7 +4197,7 @@
         "location": {
           "column": "16",
           "line": "43",
-          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
         },
         "name": "prioridade",
         "origin": "user_include",
@@ -4211,7 +4211,7 @@
         "location": {
           "column": "12",
           "line": "44",
-          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
         },
         "name": "tempo_espera",
         "origin": "user_include",
@@ -4225,7 +4225,7 @@
         "location": {
           "column": "2",
           "line": "45",
-          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
         },
         "name": "tcb_t",
         "origin": "user_include",
@@ -4244,7 +4244,7 @@
     "location": {
       "column": "18",
       "line": "47",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "tarefa_atual",
     "origin": "user_include",
@@ -4258,7 +4258,7 @@
     "location": {
       "column": "18",
       "line": "48",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "proxima_tarefa",
     "origin": "user_include",
@@ -4272,7 +4272,7 @@
     "location": {
       "column": "16",
       "line": "49",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "TCB",
     "origin": "user_include",
@@ -4286,7 +4286,7 @@
     "location": {
       "column": "20",
       "line": "50",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "ponteiro_de_pilha",
     "origin": "user_include",
@@ -4300,7 +4300,7 @@
     "location": {
       "column": "22",
       "line": "51",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "Prioridades",
     "origin": "user_include",
@@ -4314,7 +4314,7 @@
     "location": {
       "column": "9",
       "line": "58",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "members": [
       {
@@ -4325,7 +4325,7 @@
         "location": {
           "column": "14",
           "line": "60",
-          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
         },
         "name": "contador",
         "origin": "user_include",
@@ -4339,7 +4339,7 @@
         "location": {
           "column": "11",
           "line": "61",
-          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+          "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
         },
         "name": "tarefaEsperando",
         "origin": "user_include",
@@ -4358,7 +4358,7 @@
     "location": {
       "column": "3",
       "line": "62",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "semaforo_t",
     "origin": "user_include",
@@ -4372,7 +4372,7 @@
     "location": {
       "column": "6",
       "line": "65",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "tarefa_ociosa",
     "origin": "user_include",
@@ -4386,7 +4386,7 @@
     "location": {
       "column": "6",
       "line": "65",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "tarefa_ociosa",
     "origin": "user_include",
@@ -4400,7 +4400,7 @@
     "location": {
       "column": "9",
       "line": "66",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "escalonador",
     "origin": "user_include",
@@ -4414,7 +4414,7 @@
     "location": {
       "column": "9",
       "line": "66",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "escalonador",
     "origin": "user_include",
@@ -4428,7 +4428,7 @@
     "location": {
       "column": "6",
       "line": "68",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "TrocaContextoDasTarefas",
     "origin": "user_include",
@@ -4442,7 +4442,7 @@
     "location": {
       "column": "6",
       "line": "68",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "TrocaContextoDasTarefas",
     "origin": "user_include",
@@ -4456,7 +4456,7 @@
     "location": {
       "column": "12",
       "line": "69",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "CriaContexto",
     "origin": "user_include",
@@ -4470,7 +4470,7 @@
     "location": {
       "column": "12",
       "line": "69",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "CriaContexto",
     "origin": "user_include",
@@ -4484,7 +4484,7 @@
     "location": {
       "column": "6",
       "line": "70",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "CriaTarefa",
     "origin": "user_include",
@@ -4498,7 +4498,7 @@
     "location": {
       "column": "6",
       "line": "70",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "CriaTarefa",
     "origin": "user_include",
@@ -4512,7 +4512,7 @@
     "location": {
       "column": "6",
       "line": "71",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "IniciaMultitarefas",
     "origin": "user_include",
@@ -4526,7 +4526,7 @@
     "location": {
       "column": "6",
       "line": "71",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "IniciaMultitarefas",
     "origin": "user_include",
@@ -4540,7 +4540,7 @@
     "location": {
       "column": "6",
       "line": "72",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "ConfiguraMarcaTempo",
     "origin": "user_include",
@@ -4554,7 +4554,7 @@
     "location": {
       "column": "6",
       "line": "72",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "ConfiguraMarcaTempo",
     "origin": "user_include",
@@ -4568,7 +4568,7 @@
     "location": {
       "column": "6",
       "line": "73",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "ExecutaMarcaDeTempo",
     "origin": "user_include",
@@ -4582,7 +4582,7 @@
     "location": {
       "column": "6",
       "line": "73",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "ExecutaMarcaDeTempo",
     "origin": "user_include",
@@ -4596,7 +4596,7 @@
     "location": {
       "column": "6",
       "line": "75",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "TarefaSuspende",
     "origin": "user_include",
@@ -4610,7 +4610,7 @@
     "location": {
       "column": "6",
       "line": "75",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "TarefaSuspende",
     "origin": "user_include",
@@ -4624,7 +4624,7 @@
     "location": {
       "column": "6",
       "line": "76",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "TarefaContinua",
     "origin": "user_include",
@@ -4638,7 +4638,7 @@
     "location": {
       "column": "6",
       "line": "76",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "TarefaContinua",
     "origin": "user_include",
@@ -4652,7 +4652,7 @@
     "location": {
       "column": "6",
       "line": "77",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "TarefaEspera",
     "origin": "user_include",
@@ -4666,7 +4666,7 @@
     "location": {
       "column": "6",
       "line": "77",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "TarefaEspera",
     "origin": "user_include",
@@ -4680,7 +4680,7 @@
     "location": {
       "column": "6",
       "line": "79",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "SemaforoAguarda",
     "origin": "user_include",
@@ -4694,7 +4694,7 @@
     "location": {
       "column": "6",
       "line": "79",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "SemaforoAguarda",
     "origin": "user_include",
@@ -4708,7 +4708,7 @@
     "location": {
       "column": "6",
       "line": "80",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "SemaforoLibera",
     "origin": "user_include",
@@ -4722,7 +4722,7 @@
     "location": {
       "column": "6",
       "line": "80",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.h"
     },
     "name": "SemaforoLibera",
     "origin": "user_include",
@@ -5184,7 +5184,7 @@
     "location": {
       "column": "6",
       "line": "9",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_0",
     "origin": "project_file",
@@ -5198,7 +5198,7 @@
     "location": {
       "column": "6",
       "line": "10",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_1",
     "origin": "project_file",
@@ -5212,7 +5212,7 @@
     "location": {
       "column": "6",
       "line": "11",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_2",
     "origin": "project_file",
@@ -5226,7 +5226,7 @@
     "location": {
       "column": "6",
       "line": "12",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_3",
     "origin": "project_file",
@@ -5240,7 +5240,7 @@
     "location": {
       "column": "6",
       "line": "13",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_4",
     "origin": "project_file",
@@ -5254,7 +5254,7 @@
     "location": {
       "column": "6",
       "line": "14",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_5",
     "origin": "project_file",
@@ -5268,7 +5268,7 @@
     "location": {
       "column": "9",
       "line": "20",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "TAM_PILHA_0",
     "origin": "project_file",
@@ -5282,7 +5282,7 @@
     "location": {
       "column": "9",
       "line": "21",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "TAM_PILHA_1",
     "origin": "project_file",
@@ -5296,7 +5296,7 @@
     "location": {
       "column": "9",
       "line": "22",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "TAM_PILHA_2",
     "origin": "project_file",
@@ -5310,7 +5310,7 @@
     "location": {
       "column": "9",
       "line": "23",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "TAM_PILHA_3",
     "origin": "project_file",
@@ -5324,7 +5324,7 @@
     "location": {
       "column": "9",
       "line": "24",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "TAM_PILHA_4",
     "origin": "project_file",
@@ -5338,7 +5338,7 @@
     "location": {
       "column": "9",
       "line": "25",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "TAM_PILHA_5",
     "origin": "project_file",
@@ -5352,7 +5352,7 @@
     "location": {
       "column": "9",
       "line": "26",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "TAM_PILHA_OCIOSA",
     "origin": "project_file",
@@ -5366,7 +5366,7 @@
     "location": {
       "column": "10",
       "line": "32",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "PILHA_TAREFA_0",
     "origin": "project_file",
@@ -5380,7 +5380,7 @@
     "location": {
       "column": "10",
       "line": "33",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "PILHA_TAREFA_1",
     "origin": "project_file",
@@ -5394,7 +5394,7 @@
     "location": {
       "column": "10",
       "line": "34",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "PILHA_TAREFA_2",
     "origin": "project_file",
@@ -5408,7 +5408,7 @@
     "location": {
       "column": "10",
       "line": "35",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "PILHA_TAREFA_3",
     "origin": "project_file",
@@ -5422,7 +5422,7 @@
     "location": {
       "column": "10",
       "line": "36",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "PILHA_TAREFA_4",
     "origin": "project_file",
@@ -5436,7 +5436,7 @@
     "location": {
       "column": "10",
       "line": "37",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "PILHA_TAREFA_5",
     "origin": "project_file",
@@ -5450,7 +5450,7 @@
     "location": {
       "column": "10",
       "line": "38",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "PILHA_TAREFA_OCIOSA",
     "origin": "project_file",
@@ -5464,7 +5464,7 @@
     "location": {
       "column": "10",
       "line": "44",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "a",
     "origin": "project_file",
@@ -5478,7 +5478,7 @@
     "location": {
       "column": "10",
       "line": "45",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "b",
     "origin": "project_file",
@@ -5492,7 +5492,7 @@
     "location": {
       "column": "10",
       "line": "46",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "c",
     "origin": "project_file",
@@ -5506,7 +5506,7 @@
     "location": {
       "column": "10",
       "line": "47",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "d",
     "origin": "project_file",
@@ -5520,7 +5520,7 @@
     "location": {
       "column": "10",
       "line": "48",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "e",
     "origin": "project_file",
@@ -5534,7 +5534,7 @@
     "location": {
       "column": "5",
       "line": "54",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "main",
     "origin": "project_file",
@@ -5548,7 +5548,7 @@
     "location": {
       "column": "6",
       "line": "88",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_0",
     "origin": "project_file",
@@ -5562,7 +5562,7 @@
     "location": {
       "column": "6",
       "line": "100",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_1",
     "origin": "project_file",
@@ -5576,7 +5576,7 @@
     "location": {
       "column": "6",
       "line": "111",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_2",
     "origin": "project_file",
@@ -5590,7 +5590,7 @@
     "location": {
       "column": "6",
       "line": "122",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_3",
     "origin": "project_file",
@@ -5604,7 +5604,7 @@
     "location": {
       "column": "6",
       "line": "132",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_4",
     "origin": "project_file",
@@ -5618,7 +5618,7 @@
     "location": {
       "column": "6",
       "line": "143",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
     },
     "name": "tarefa_5",
     "origin": "project_file",
@@ -5716,7 +5716,7 @@
     "location": {
       "column": "13",
       "line": "9",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "tarefa_atual",
     "origin": "project_file",
@@ -5730,7 +5730,7 @@
     "location": {
       "column": "27",
       "line": "9",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "proxima_tarefa",
     "origin": "project_file",
@@ -5744,7 +5744,7 @@
     "location": {
       "column": "13",
       "line": "10",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "TCB",
     "origin": "project_file",
@@ -5758,7 +5758,7 @@
     "location": {
       "column": "15",
       "line": "11",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "ponteiro_de_pilha",
     "origin": "project_file",
@@ -5772,7 +5772,7 @@
     "location": {
       "column": "20",
       "line": "12",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "Prioridades",
     "origin": "project_file",
@@ -5786,7 +5786,7 @@
     "location": {
       "column": "13",
       "line": "13",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "SP",
     "origin": "project_file",
@@ -5800,7 +5800,7 @@
     "location": {
       "column": "15",
       "line": "16",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "contador_marcas",
     "origin": "project_file",
@@ -5814,7 +5814,7 @@
     "location": {
       "column": "16",
       "line": "18",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "numero_tarefas",
     "origin": "project_file",
@@ -5828,7 +5828,7 @@
     "location": {
       "column": "9",
       "line": "25",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "escalonador",
     "origin": "project_file",
@@ -5842,7 +5842,7 @@
     "location": {
       "column": "10",
       "line": "28",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "prioridade",
     "origin": "project_file",
@@ -5856,7 +5856,7 @@
     "location": {
       "column": "10",
       "line": "29",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "tarefa_selecionada",
     "origin": "project_file",
@@ -5870,7 +5870,7 @@
     "location": {
       "column": "6",
       "line": "59",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "CriaTarefa",
     "origin": "project_file",
@@ -5884,7 +5884,7 @@
     "location": {
       "column": "6",
       "line": "88",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "TarefaSuspende",
     "origin": "project_file",
@@ -5898,7 +5898,7 @@
     "location": {
       "column": "6",
       "line": "96",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "TarefaContinua",
     "origin": "project_file",
@@ -5912,7 +5912,7 @@
     "location": {
       "column": "6",
       "line": "104",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "TarefaEspera",
     "origin": "project_file",
@@ -5926,7 +5926,7 @@
     "location": {
       "column": "6",
       "line": "117",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "tarefa_ociosa",
     "origin": "project_file",
@@ -5940,7 +5940,7 @@
     "location": {
       "column": "6",
       "line": "131",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "IniciaMultitarefas",
     "origin": "project_file",
@@ -5954,7 +5954,7 @@
     "location": {
       "column": "6",
       "line": "139",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "TrocaContextoDasTarefas",
     "origin": "project_file",
@@ -5968,7 +5968,7 @@
     "location": {
       "column": "6",
       "line": "157",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "ExecutaMarcaDeTempo",
     "origin": "project_file",
@@ -5982,7 +5982,7 @@
     "location": {
       "column": "10",
       "line": "160",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "tarefa",
     "origin": "project_file",
@@ -5996,7 +5996,7 @@
     "location": {
       "column": "6",
       "line": "183",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "SemaforoAguarda",
     "origin": "project_file",
@@ -6010,7 +6010,7 @@
     "location": {
       "column": "6",
       "line": "202",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\multitarefas.c"
     },
     "name": "SemaforoLibera",
     "origin": "project_file",
