@@ -52,7 +52,7 @@ void tarefa_8(void);
 #define TAM_PILHA_6			(TAM_MINIMO_PILHA + 24)
 #define TAM_PILHA_7			(TAM_MINIMO_PILHA + 24)
 #define TAM_PILHA_8			(TAM_MINIMO_PILHA + 24)
-#define TAM_PILHA_OCIOSA	(TAM_MINIMO_PILHA + 24)
+#define TAM_PILHA_OCIOSA	        (TAM_MINIMO_PILHA + 24)
 
 /*
  * Declaracao das pilhas das tarefas
