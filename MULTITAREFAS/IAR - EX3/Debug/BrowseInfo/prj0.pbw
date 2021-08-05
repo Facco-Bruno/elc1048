@@ -5177,454 +5177,6 @@
     "scope": null
   },
   {
-    "ID": "c:@F@tarefa_0",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_0(void)",
-    "location": {
-      "column": "6",
-      "line": "9",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_0",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_1",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_1(void)",
-    "location": {
-      "column": "6",
-      "line": "10",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_2",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_2(void)",
-    "location": {
-      "column": "6",
-      "line": "11",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_3",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_3(void)",
-    "location": {
-      "column": "6",
-      "line": "12",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_3",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_4",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_4(void)",
-    "location": {
-      "column": "6",
-      "line": "13",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_4",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_5",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_5(void)",
-    "location": {
-      "column": "6",
-      "line": "14",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_5",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@302@macro@TAM_PILHA_0",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_0",
-    "location": {
-      "column": "9",
-      "line": "20",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "TAM_PILHA_0",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@348@macro@TAM_PILHA_1",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_1",
-    "location": {
-      "column": "9",
-      "line": "21",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "TAM_PILHA_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@394@macro@TAM_PILHA_2",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_2",
-    "location": {
-      "column": "9",
-      "line": "22",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "TAM_PILHA_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@440@macro@TAM_PILHA_3",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_3",
-    "location": {
-      "column": "9",
-      "line": "23",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "TAM_PILHA_3",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@486@macro@TAM_PILHA_4",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_4",
-    "location": {
-      "column": "9",
-      "line": "24",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "TAM_PILHA_4",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@532@macro@TAM_PILHA_5",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_5",
-    "location": {
-      "column": "9",
-      "line": "25",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "TAM_PILHA_5",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@578@macro@TAM_PILHA_OCIOSA",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_OCIOSA",
-    "location": {
-      "column": "9",
-      "line": "26",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "TAM_PILHA_OCIOSA",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_0",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_0",
-    "location": {
-      "column": "10",
-      "line": "32",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "PILHA_TAREFA_0",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_1",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_1",
-    "location": {
-      "column": "10",
-      "line": "33",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "PILHA_TAREFA_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_2",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_2",
-    "location": {
-      "column": "10",
-      "line": "34",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "PILHA_TAREFA_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_3",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_3",
-    "location": {
-      "column": "10",
-      "line": "35",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "PILHA_TAREFA_3",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_4",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_4",
-    "location": {
-      "column": "10",
-      "line": "36",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "PILHA_TAREFA_4",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_5",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_5",
-    "location": {
-      "column": "10",
-      "line": "37",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "PILHA_TAREFA_5",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_OCIOSA",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_OCIOSA",
-    "location": {
-      "column": "10",
-      "line": "38",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "PILHA_TAREFA_OCIOSA",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@a",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "a",
-    "location": {
-      "column": "10",
-      "line": "44",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "a",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@b",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "b",
-    "location": {
-      "column": "10",
-      "line": "45",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "b",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@c",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "c",
-    "location": {
-      "column": "10",
-      "line": "46",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "c",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@d",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "d",
-    "location": {
-      "column": "10",
-      "line": "47",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "d",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@e",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "e",
-    "location": {
-      "column": "10",
-      "line": "48",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "e",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@main",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "int main(void)",
-    "location": {
-      "column": "5",
-      "line": "54",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "main",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_0",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_0(void)",
-    "location": {
-      "column": "6",
-      "line": "88",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_0",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_1",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_1(void)",
-    "location": {
-      "column": "6",
-      "line": "100",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_2",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_2(void)",
-    "location": {
-      "column": "6",
-      "line": "111",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_3",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_3(void)",
-    "location": {
-      "column": "6",
-      "line": "122",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_3",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_4",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_4(void)",
-    "location": {
-      "column": "6",
-      "line": "132",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_4",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_5",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_5(void)",
-    "location": {
-      "column": "6",
-      "line": "143",
-      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
-    },
-    "name": "tarefa_5",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
     "ID": "c:ysizet.h@111@macro@_YSIZET_H",
     "What": "MacroDef",
     "defdec": "Def",
@@ -5706,6 +5258,272 @@
     },
     "name": "__data_size_t",
     "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_1",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_1(void)",
+    "location": {
+      "column": "6",
+      "line": "9",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "tarefa_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_2",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_2(void)",
+    "location": {
+      "column": "6",
+      "line": "10",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "tarefa_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_3",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_3(void)",
+    "location": {
+      "column": "6",
+      "line": "11",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "tarefa_3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@236@macro@TAM_PILHA_1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_1",
+    "location": {
+      "column": "9",
+      "line": "17",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "TAM_PILHA_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@282@macro@TAM_PILHA_2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_2",
+    "location": {
+      "column": "9",
+      "line": "18",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "TAM_PILHA_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@328@macro@TAM_PILHA_OCIOSA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_OCIOSA",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "TAM_PILHA_OCIOSA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_1",
+    "location": {
+      "column": "10",
+      "line": "25",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "PILHA_TAREFA_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_2",
+    "location": {
+      "column": "10",
+      "line": "26",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "PILHA_TAREFA_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_OCIOSA",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_OCIOSA",
+    "location": {
+      "column": "10",
+      "line": "27",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "PILHA_TAREFA_OCIOSA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@semaforo_a",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "semaforo_a",
+    "location": {
+      "column": "12",
+      "line": "29",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "semaforo_a",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@semaforo_b",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "semaforo_b",
+    "location": {
+      "column": "12",
+      "line": "30",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "semaforo_b",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "33",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1228@macro@BUFFER_SIZE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "BUFFER_SIZE",
+    "location": {
+      "column": "9",
+      "line": "56",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "BUFFER_SIZE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@buffer",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "buffer",
+    "location": {
+      "column": "20",
+      "line": "58",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "buffer",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_1",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_1(void)",
+    "location": {
+      "column": "6",
+      "line": "62",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "tarefa_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1396@F@tarefa_1@a",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a",
+    "location": {
+      "column": "21",
+      "line": "64",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "a",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1396@F@tarefa_1@readbuf",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "readbuf",
+    "location": {
+      "column": "28",
+      "line": "64",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "readbuf",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_2",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_2(void)",
+    "location": {
+      "column": "6",
+      "line": "75",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "tarefa_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1635@F@tarefa_2@b",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "b",
+    "location": {
+      "column": "21",
+      "line": "77",
+      "path": "D:\\Users\\Bruno\\Documents\\GitHub\\elc1048\\MULTITAREFAS\\IAR - EX3\\main.c"
+    },
+    "name": "b",
+    "origin": "project_file",
     "scope": null
   },
   {
