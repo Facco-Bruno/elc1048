@@ -1,15 +1,15 @@
-"D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR\cpu-port.c"
+"D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR - EX2\cpu-port.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR\Debug\BrowseInfo\cpu-port.pbi.dep
+D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR - EX2\Debug\BrowseInfo\cpu-port.pbi.dep
 -o
-D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR\Debug\BrowseInfo\cpu-port.pbi
+D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR - EX2\Debug\BrowseInfo\cpu-port.pbi
 -I
-D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR
+D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR - EX2
 -I
 C:\DADOS_LOCAIS\GITHUB\elc1048\MULTITAREFAS\IAR
 -I

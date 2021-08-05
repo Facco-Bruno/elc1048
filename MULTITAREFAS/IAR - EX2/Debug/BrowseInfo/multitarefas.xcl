@@ -1,15 +1,15 @@
-"D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR\multitarefas.c"
+"D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR - EX2\multitarefas.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR\Debug\BrowseInfo\multitarefas.pbi.dep
+D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR - EX2\Debug\BrowseInfo\multitarefas.pbi.dep
 -o
-D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR\Debug\BrowseInfo\multitarefas.pbi
+D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR - EX2\Debug\BrowseInfo\multitarefas.pbi
 -I
-D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR
+D:\Users\Bruno\Documents\GitHub\elc1048\MULTITAREFAS\IAR - EX2
 -I
 C:\DADOS_LOCAIS\GITHUB\elc1048\MULTITAREFAS\IAR
 -I
